@@ -1,0 +1,12 @@
+#import existence
+
+def myVelocity(distance, time):
+    velocity = distance / time 
+    result = velocity
+    print("velocity is", velocity)
+
+    input("")
+    input("")
+    input("")
+    input("")
+    input("")
